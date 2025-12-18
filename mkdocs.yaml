@@ -1,0 +1,10 @@
+site_name: Architectural Decision Records
+nav:
+  - Home: index.md
+  - ADRs:
+      - adr/0001-adopt-event-driven-architecture.md
+      - adr/0002-use-azure-event-hubs.md
+      - adr/0003-introduce-schema-registry.md
+      - adr/0004-enforce-schema-validation.md
+theme:
+  name: material
