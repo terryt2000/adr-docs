@@ -1,4 +1,5 @@
 site_name: Architectural Decision Records
+site_url: https://terryt2000.github.io/adr-docs/
 nav:
   - Home: index.md
   - ADRs:
